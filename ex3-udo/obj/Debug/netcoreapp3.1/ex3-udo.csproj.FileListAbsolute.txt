@@ -1,0 +1,12 @@
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/obj/Debug/netcoreapp3.1/ex3-udo.csprojAssemblyReference.cache
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/obj/Debug/netcoreapp3.1/ex3-udo.AssemblyInfoInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/obj/Debug/netcoreapp3.1/ex3-udo.AssemblyInfo.cs
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/obj/Debug/netcoreapp3.1/ex3-udo.csproj.CoreCompileInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/bin/Debug/netcoreapp3.1/ex3-udo.deps.json
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/bin/Debug/netcoreapp3.1/ex3-udo.runtimeconfig.json
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/bin/Debug/netcoreapp3.1/ex3-udo.runtimeconfig.dev.json
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/bin/Debug/netcoreapp3.1/ex3-udo.dll
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/bin/Debug/netcoreapp3.1/ex3-udo.pdb
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/obj/Debug/netcoreapp3.1/ex3-udo.dll
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/obj/Debug/netcoreapp3.1/ex3-udo.pdb
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex3-udo/obj/Debug/netcoreapp3.1/ex3-udo.genruntimeconfig.cache
