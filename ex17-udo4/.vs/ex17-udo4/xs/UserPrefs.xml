@@ -1,25 +1,25 @@
-﻿<Properties StartupConfiguration="{7F463255-D196-47A0-A6A3-9413D57EA2A6}|Default">
+﻿<Properties StartupConfiguration="{5F3F42E1-0F60-429B-B023-E795F92AFFEE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="14" />
+      <File FileName="Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ex16-udo4" expanded="True">
-            <Node name="ex16-udo4" expanded="True">
-              <Node name="Dependencies" expanded="True" selected="True" />
+          <Node name="ex17-udo4" expanded="True">
+            <Node name="ex17-udo4" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ex17-udo4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ex16-udo4 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
