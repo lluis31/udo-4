@@ -6,18 +6,13 @@ namespace ex16_udo4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Introduce el precio del producto:");
 
-            float iva, vv, pv;
+            double precio = Convert.ToDouble(Console.ReadLine());
+            double IVA = (precio * 21 / 100);
+            double total = precio + IVA;
 
-            Console.Write("Introduce el valor del producto");
-            vv = float.Parse(Console.ReadLine());
-
-            iva = vv * 0.21F;
-            pv = vv + iva;
-
-            Console.WriteLine("El iva es:" + iva);
-            Console.WriteLine("El precio de venta es:" + pv);
-
+            Console.WriteLine("El precio final, IVA incluido es: {0}", total);
         }
     }
 }
