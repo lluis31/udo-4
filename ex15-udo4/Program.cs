@@ -7,20 +7,29 @@ namespace ex15_udo4
         static void Main(string[] args)
         {
             {
-                int esDivisible(int numero, int divisible)
+                int num = 1;
+                bool respuesta;
+
+                while (num <=200)
                 {
-                    if (numero / divisible == 0)
-                    {
-                        return 1;
-                    }
-                    else
-                    {
-                        return 0;
-                    }
+                    Console.Write(" Escribe un numero", num);
+                    respuesta = multiplo2(num);
+
+                    if (respuesta) Console.WriteLine("Es multiple de 2");
+                    else Console.WriteLine("No es multiplo de 2");
+
+                    num++;
                 }
-            }
+
+             }
+         }
+            public static bool multiplo2 (int n)
+              {
+            if ((n % 2) != 0) return false;
+            else return true;
+
         }
-    }
+     }
 }
 
         
