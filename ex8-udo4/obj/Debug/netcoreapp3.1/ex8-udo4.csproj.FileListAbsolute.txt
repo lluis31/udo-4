@@ -1,0 +1,12 @@
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/bin/Debug/netcoreapp3.1/ex8-udo4.deps.json
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/bin/Debug/netcoreapp3.1/ex8-udo4.runtimeconfig.json
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/bin/Debug/netcoreapp3.1/ex8-udo4.runtimeconfig.dev.json
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/bin/Debug/netcoreapp3.1/ex8-udo4.dll
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/bin/Debug/netcoreapp3.1/ex8-udo4.pdb
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/obj/Debug/netcoreapp3.1/ex8-udo4.csprojAssemblyReference.cache
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/obj/Debug/netcoreapp3.1/ex8-udo4.AssemblyInfoInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/obj/Debug/netcoreapp3.1/ex8-udo4.AssemblyInfo.cs
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/obj/Debug/netcoreapp3.1/ex8-udo4.csproj.CoreCompileInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/obj/Debug/netcoreapp3.1/ex8-udo4.dll
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/obj/Debug/netcoreapp3.1/ex8-udo4.pdb
+/Users/lluisplanasmastel/Desktop/Git/udo-4/ex8-udo4/obj/Debug/netcoreapp3.1/ex8-udo4.genruntimeconfig.cache

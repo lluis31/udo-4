@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B654DC77-4646-4B38-905D-C27E58A4F307}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex2-udo4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex3-udo4.json">
+    <Files>
+      <File FileName="ex3-udo4.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex2-udo4" expanded="True">
+            <Node name="ex2-udo4" expanded="True">
+              <Node name="ex3-udo4.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
